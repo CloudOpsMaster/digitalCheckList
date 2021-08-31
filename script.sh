@@ -4,7 +4,7 @@
 #VARIABLES
 
 #application initial password
-INITIAL_PASSWORD="Qwerty12345"
+INITIAL_PASSWORD="P@ssw0rd"
 
 #application mode
 NODE_ENV="production"
